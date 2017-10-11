@@ -1,2 +1,2 @@
-# TeachingMaterials
-Lab exercises and other code associated with teaching geomology courses at University of Glasgow
+# HillslopeEvolutionModelLab
+Lab exercise to simulate the evolution of a hillslope by diffusional process (linear and nonlinear) as part of GEOG4108: Hillslope Geomorphology, University of Glasgow.
