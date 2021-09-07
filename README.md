@@ -12,4 +12,4 @@ Each sub-directory contains the material for a different week of the module. You
 * **Week 7:** tectonics and topography
 * **Week 8:** mountain building, erosion and climate
 
-Thanks and credit to Simon Mudd, Martin Hurst, Mikael Attal and Alex Densmore for providing ideas and material.
+Thanks and credit to Simon Mudd, Martin Hurst, Mikael Attal, Nicole Gasparini and Alex Densmore for providing ideas and material.
