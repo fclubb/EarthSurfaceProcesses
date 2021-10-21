@@ -7,7 +7,7 @@ Each sub-directory contains the material for a different week of the module. You
 * **Week 2:** hillslope evolution
 * **Week 3:** channel profile analysis
 * **Week 4:** Modelling river evolution using Landlab
-* **Week 5:** stream piracy and divide migration
+* **Week 5:** planform geometry of river networks
 * **Week 6:** measuring erosion in mountain landscapes
 * **Week 7:** tectonics and topography
 * **Week 8:** mountain building, erosion and climate
